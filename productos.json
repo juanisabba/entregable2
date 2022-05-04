@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Escuadra",
+    "precio": 123.45,
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/68/68761.png",
+    "id": 1
+  },
+  {
+    "title": "Calculadora",
+    "precio": 234.56,
+    "thumbnail": "https://images.vexels.com/media/users/3/127358/isolated/preview/736663fe6f9e03fcb39ace9020c42b4c-icono-de-calculadora-estacionaria.png",
+    "id": 2
+  },
+  {
+    "title": "Globo Terráqueo",
+    "precio": 345.67,
+    "thumbnail": "https://images.vexels.com/media/users/3/205320/isolated/preview/ea2d20e60f952ac3a18b35a372e5bbd7-globo-terraqueo-ilustracion-globo.png",
+    "id": 3
+  }
+]
